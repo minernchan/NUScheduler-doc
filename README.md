@@ -31,7 +31,9 @@ Some of the features we want to include in our web app include:
 
 ## System Flow
 
-![Image of System Flow]
+![Image of System Flow for Users looking for schedules](systemjunior.png)
+
+![Image of System Flow for Users sharing schedules](systemsenior.png)
 
 # Project Timeline
 
