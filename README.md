@@ -1,7 +1,8 @@
 # **NUScheduler**
 
 Group Name: NUScheduler  
-Group Members: MINERN CHAN, CHENG XUAN MIN
+Group Members: MINERN CHAN, CHENG XUAN MIN  
+Proposed Level of Achievement: Gemini
 
 ## Problem description
 
@@ -31,9 +32,9 @@ Some of the features we want to include in our web app include:
 
 ## System Flow
 
-![Image of System Flow for Users looking for schedules](systemjunior.png)
+![Image of System Flow for Users looking for schedules](systemjunior.PNG)
 
-![Image of System Flow for Users sharing schedules](systemsenior.png)
+![Image of System Flow for Users sharing schedules](systemsenior.PNG)
 
 # Project Timeline
 
