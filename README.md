@@ -6,7 +6,7 @@ Proposed Level of Achievement: Gemini
 
 ## Problem description
 
-Students in university at times face the dilemma of planning what modules to choose in not just the next semester, but also the subsequent semesters. Most of the time, the issues tend to be related to fulfilling prerequisites for higher level modules and whether the specific basket of modules taken in one semester will be manageable for a typical student. In the end, students may find that they have not planned their schedules optimally and may even end up taking extra semesters to fulfill certain requirements just to graduate, or end up selecting a basket of modules that is too demanding with heavy workloads.
+As a freshmen, they will have issue with schedule planning like facing the dilemma of what modules to choose in their 4 years of studies, not just the the subsequent semesters. Most of the time, the issues tend to be related to fulfilling prerequisites for higher level modules and whether the specific basket of modules taken in one semester will be manageable for a typical student. In the end, students may find that they have not planned their schedules optimally and may even end up taking extra semesters to fulfill certain requirements just to graduate, or end up selecting a basket of modules that is too demanding with heavy workloads. For students interested in SEP, this can be a platform for sharing modules mapping schedule by seniors.  
 
 On the other hand, there are senior students who are enthusiastic about helping others to map out their modules so that others do not face the same problems they did while planning their modules. However, they do not have the channels to share their experiences with others.
 
