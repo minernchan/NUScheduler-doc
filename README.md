@@ -52,6 +52,7 @@ At the end of Milestone 1, we aim to....
 - Essentials  
     1. As a user who is unsure of how to plan my future semesters like modules exemption, can see how seniors have planned their schedules, so can learn from their schedules and plan for oneself. (Priority 1) 
     2. As a user who wants to help others map their modules, I want to be able to share my past schedules on an easily accessible platform, so that I can share my positive or negative experience with others. (Priority 1)
+    3. As an admin who can monitor users abuse the system. (Priority 1)
 
 
 - Luxury
