@@ -6,7 +6,7 @@ Proposed Level of Achievement: Gemini
 
 ## Problem description
 
-Students in university at times face the dilemma of planning what modules to choose in not just the next semester, but also the subsequent semesters. Most of the time, the issues tend to be related to fulfilling prerequisites for higher level modules and whether the specific basket of modules taken in one semester will be manageable for a typical student. In the end, students may find that they have not planned their schedules optimally and may even end up taking extra semesters to fulfill certain requirements just to graduate, or end up selecting a basket of modules that is too demanding with heavy workloads.
+As a freshmen, they will have issue with schedule planning like facing the dilemma of what modules to choose in their 4 years of studies, not just the the subsequent semesters. Most of the time, the issues tend to be related to fulfilling prerequisites for higher level modules and whether the specific basket of modules taken in one semester will be manageable for a typical student. In the end, students may find that they have not planned their schedules optimally and may even end up taking extra semesters to fulfill certain requirements just to graduate, or end up selecting a basket of modules that is too demanding with heavy workloads. For students interested in SEP, this can be a platform for sharing modules mapping schedule by seniors.  
 
 On the other hand, there are senior students who are enthusiastic about helping others to map out their modules so that others do not face the same problems they did while planning their modules. However, they do not have the channels to share their experiences with others.
 
@@ -50,8 +50,19 @@ At the end of Milestone 1, we aim to....
 
 # User Stories
 - Essentials  
-    1. As a user who is unsure of how to plan my future semesters, I want to see how my seniors have planned their schedules, so I can learn from their experience  
-    2. As a user who wants to help others map their modules, I want to be able to share my past schedules on an easily accessible platform, so that I can share my positive or negative experience with others.
-    3. As...
+    1. As a freshmen students who are unsure of how to plan my future semesters like modules exemption, can see how seniors have planned their schedules, so can learn from their schedules and plan for oneself. (Priority 1) 
+    2. As a senior students who wants to help others map their modules, I want to be able to share my past schedules on an easily accessible platform, so that I can share my positive or negative experience with others. (Priority 1)
+    3. As an admin who can organise all the schedules from departments and senior. Admin also need monitor users of abusing the system. (Priority 1)
+
 
 - Luxury
+	1. As an admin who can manage schedules from seniors and archive the outdated and irrelevant modules with cross-checking by the department. (Priority 2)
+    2. As a user who want to have an idea on  modules that can be mapped for SEP can access seniors mapping template. (Priority 2) 
+
+- Similar Platforms:
+	1. Nusmods - Planning of timetables to avoid clash in lessons and exam on current semester. However, it do not have overview schedule of subsequence semester.
+	2. CORS - Check modules requirements but not user friendly for freshmen.
+
+- Project Log:
+	1. Liftoff Day 1 - 
+	2. Liftoff Day 2 -
