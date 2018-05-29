@@ -50,11 +50,19 @@ At the end of Milestone 1, we aim to....
 
 # User Stories
 - Essentials  
-    1. As a user who is unsure of how to plan my future semesters like modules exemption, can see how seniors have planned their schedules, so can learn from their schedules and plan for oneself. (Priority 1) 
-    2. As a user who wants to help others map their modules, I want to be able to share my past schedules on an easily accessible platform, so that I can share my positive or negative experience with others. (Priority 1)
-    3. As an admin who can monitor users abuse the system. (Priority 1)
+    1. As a freshmen students who are unsure of how to plan my future semesters like modules exemption, can see how seniors have planned their schedules, so can learn from their schedules and plan for oneself. (Priority 1) 
+    2. As a senior students who wants to help others map their modules, I want to be able to share my past schedules on an easily accessible platform, so that I can share my positive or negative experience with others. (Priority 1)
+    3. As an admin who can organise all the schedules from departments and senior. Admin also need monitor users of abusing the system. (Priority 1)
 
 
 - Luxury
 	1. As an admin who can manage schedules from seniors and archive the outdated and irrelevant modules with cross-checking by the department. (Priority 2)
     2. As a user who want to have an idea on  modules that can be mapped for SEP can access seniors mapping template. (Priority 2) 
+
+- Similar Platforms:
+	1. Nusmods - Planning of timetables to avoid clash in lessons and exam on current semester. However, it do not have overview schedule of subsequence semester.
+	2. CORS - Check modules requirements but not user friendly for freshmen.
+
+- Project Log:
+	1. Liftoff Day 1 - 
+	2. Liftoff Day 2 -
