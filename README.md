@@ -41,16 +41,16 @@ Some of the features we want to include in our web app include:
 ### **Milestone 1**
 **Deliverables**
 1. README - Documentation of project
-2. Project Log - Access it [here]
+2. Project Log - Access it [here](https://docs.google.com/spreadsheets/d/1WXrJ6DX2K2kuVXnYDIx9TSiST4avn1OwMiJcSvajT_U/edit?usp=sharing "Orbital Project Log")
 3. Video - Access it [here]
 
-At the end of Milestone 1, we aim to equipped with the basic skills in using the tools needed to implement the minimum viable product of our web application, along with the overall layout of the web app and what essential functionalities it should have to serve its purpose. We have chosen to work with HTML, CSS, and Bootstrap for our front end, and <Meteor?, Django?, MongoDB?, MySQL?> for our back end.
+At the end of Milestone 1, we aim to equipped with the basic skills in using the tools needed to implement the minimum viable product of our web application, along with the overall layout of the web app and what essential functionalities it should have to serve its purpose. 
 
-At the start of the project, due to our inexperience with web applications, we experimented with HTML, CSS, Bootstrap and MeteorJS (which we were exposed to during the Liftoff workshops). We also found out about CSS Grids and MaterializeCSS and began experimenting more....
+At the start of the project, due to our inexperience with web applications, we experimented with HTML, CSS, Bootstrap, MeteorJS and MongoDB (which we were exposed to during the Liftoff workshops). For our frontend, we have chosen to work with HTML, CSS and Bootstrap. However, as we have some prior experience with other programming languages (Python) and other database tools (MySQL), we decided to use Django Web Framework and MySQL for our backend processes. 
 
 Then, we did some initial planning by brainstorming the user stories and drafting the system flow of users on our web application, with the different needs required at each process sorted according to priority levels so that we know what to focus on to produce a minimum viable product. (Refer to System Flow and User Stories section)
 
-For the development plan, <Who is in responsible for what aspects of the website>
+For the development of the web application, both of us will work on the design and layout of the application. Xuan Min will be in charge of implementing the frontend while Minern will be in charge of implementing the backend of the web application.
 
 
 
