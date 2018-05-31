@@ -6,7 +6,7 @@ Proposed Level of Achievement: Gemini
 
 ## Problem description
 
-Students in university at times face the dilemma of planning what modules to choose in not just the next semester, but also the subsequent semesters. Most of the time, the issues tend to be related to fulfilling prerequisites for higher level modules and whether the specific basket of modules taken in one semester will be manageable for a typical student. In the end, students may find that they have not planned their schedules optimally and may even end up taking extra semesters to fulfill certain requirements just to graduate, or end up selecting a basket of modules that is too demanding with heavy workloads.
+Students in university at times face the dilemma of planning what modules to choose for not just the next semester, but also the subsequent semesters. This is especially true for freshmen who would be concerned with planning their module routes for 4 years of university education. Most of the time, the issues tend to be related to fulfilling prerequisites for higher level modules and whether the specific basket of modules taken in one semester will be manageable for a typical student. Also, students intending to apply for Student Exchange Programmes(SEP) may also be unsure of how to incorporate the SEP into their module mapping. In the end, students may find that they have not planned their schedules optimally and may even end up taking extra semesters to fulfill certain requirements just to graduate, or end up selecting a basket of modules that is too demanding with heavy workloads.
 
 On the other hand, there are senior students who are enthusiastic about helping others to map out their modules so that others do not face the same problems they did while planning their modules. However, they do not have the channels to share their experiences with others.
 
@@ -44,14 +44,23 @@ Some of the features we want to include in our web app include:
 2. Project Log - Access it [here]
 3. Video - Access it [here]
 
-At the end of Milestone 1, we aim to....
+At the end of Milestone 1, we aim to equipped with the basic skills in using the tools needed to implement the minimum viable product of our web application, along with the overall layout of the web app and what essential functionalities it should have to serve its purpose. We have chosen to work with HTML, CSS, and Bootstrap for our front end, and <Meteor?, Django?, MongoDB?, MySQL?> for our back end.
 
-<Who is in responsible for what aspects of the website>
+At the start of the project, due to our inexperience with web applications, we experimented with HTML, CSS, Bootstrap and MeteorJS (which we were exposed to during the Liftoff workshops). We also found out about CSS Grids and MaterializeCSS and began experimenting more....
+
+Then, we did some initial planning by brainstorming the user stories and drafting the system flow of users on our web application, with the different needs required at each process sorted according to priority levels so that we know what to focus on to produce a minimum viable product. (Refer to System Flow and User Stories section)
+
+For the development plan, <Who is in responsible for what aspects of the website>
+
+
+
 
 # User Stories
 - Essentials  
-    1. As a user who is unsure of how to plan my future semesters, I want to see how my seniors have planned their schedules, so I can learn from their experience  
-    2. As a user who wants to help others map their modules, I want to be able to share my past schedules on an easily accessible platform, so that I can share my positive or negative experience with others.
-    3. As...
+    1. As a user, I want to be able to easily navigate to my faculty or course, so I will only see schedules that are relevant to me.
+    2. As a user who is unsure of how to plan my future semesters, I want to see how my seniors have planned their schedules, so I can learn from their experience  
+    3. As a user who wants to help others map their modules, I want to be able to share my past schedules on an easily accessible platform, so that I can share my positive or negative experience with others.
+    4. As an administrator, I want to ensure that only authenticated users on the website can share their schedules, so that the information shared on the website will be reliable.
+    5. As an administrator, I want to ensure that only authenticated users can message other users or comment on shared schedules, so that users who share their schedules will not be spammed or harassed.
 
-- Luxury
+
