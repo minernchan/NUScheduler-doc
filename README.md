@@ -63,7 +63,13 @@ Some of the features we want to include in our web app include:
     8. As an administrator, I want to ensure that **only authenticated users can message other users or comment on shared schedules**, so that users who share their schedules will not be spammed or harassed.
 
 ## Luxury
+- Freshmen/ Junior Students
+
+- Senior Students
+
+- Admin
     1. As an administrator, I want to be able to **manage the shared schedules and archive schedules that contain outdated modules**, so that the information on the web application stays relevant. (Priority 2)
+
 
 # Project Timeline
 
