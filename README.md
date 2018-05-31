@@ -36,6 +36,27 @@ Some of the features we want to include in our web app include:
 
 ![Image of System Flow for Users sharing schedules](systemsenior.PNG)
 
+
+
+# User Stories
+
+1. As a user, I want to be able to find schedules that are relevant to me, so I won't have to spend too much time searching.
+
+2. As a user, I want to be able to know how helpful certain schedules are to others, so I can look out for them first.
+
+3. As a user, I want to be able to provide feedback, so others can know how helpful a particular schedule has been to me.
+
+4. As a user, I want to be able to contact the users who shared their schedules, so I can ask more in-depth questions and find out more information.
+
+5. As a user, I want to be able to share my schedules, so others can learn from my personal experience.
+
+6. As a user, I want to be able to respond to any comments or questions on my shared schedules, so I can provide more useful information to help others.
+
+7. As an administrator, I want to ensure that only authenticated users on the website can share their schedules, so that the information shared on the website will be reliable.
+
+8. As an administrator, I want to ensure that only authenticated users can message other users or comment on shared schedules, so that users who share their schedules will not be spammed or harassed.
+
+
 # Project Timeline
 
 ### **Milestone 1**
@@ -53,14 +74,5 @@ Then, we did some initial planning by brainstorming the user stories and draftin
 For the development of the web application, both of us will work on the design and layout of the application. Xuan Min will be in charge of implementing the frontend while Minern will be in charge of implementing the backend of the web application.
 
 
-
-
-# User Stories
-- Essentials  
-    1. As a user, I want to be able to easily navigate to my faculty or course, so I will only see schedules that are relevant to me.
-    2. As a user who is unsure of how to plan my future semesters, I want to see how my seniors have planned their schedules, so I can learn from their experience  
-    3. As a user who wants to help others map their modules, I want to be able to share my past schedules on an easily accessible platform, so that I can share my positive or negative experience with others.
-    4. As an administrator, I want to ensure that only authenticated users on the website can share their schedules, so that the information shared on the website will be reliable.
-    5. As an administrator, I want to ensure that only authenticated users can message other users or comment on shared schedules, so that users who share their schedules will not be spammed or harassed.
 
 
