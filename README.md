@@ -1,5 +1,5 @@
 # **NUScheduler**
-
+![NUScheduler Logo](NUScheduler-logo.PNG)  
 Group Name: NUScheduler  
 Group Members: MINERN CHAN, CHENG XUAN MIN  
 Proposed Level of Achievement: Gemini
@@ -17,8 +17,9 @@ On this platform, students can share their past schedules on the website for oth
 
 Students who are unsure how to map out their modules will be able to see how others before them have planned their study route and avoid any of the problems mentioned above. They can also review and comment on the schedules shared by others to help identify schedules that have helped them better plan their timetables.
 
-## Inspiration and how we are different
-NUSMods is our inspiration as we have benefitted a lot from being able to visualize the modules on a timetable. However, only individual modules can be reviewed by students, and not the particular timetable as a whole. Thus, we want to let students share their entire timetable and share their experience with others.
+## Inspirations and how we are different
+1. NUSMods is our inspiration as we have benefitted a lot from being able to visualize the modules on a timetable. However, only individual modules can be reviewed by students, and not the particular timetable as a whole. Thus, we want to let students share their entire timetable and share their experience with others.
+
 
 ## Features
 Some of the features we want to include in our web app include:
@@ -39,25 +40,33 @@ Some of the features we want to include in our web app include:
 
 
 # User Stories
+## Essentials
+- Freshmen/ Junior Students  
+    1. As a user, I want to be able to **quickly find schedules** that are relevant to me, so I won't have to spend too much time searching.
 
-1. As a user, I want to be able to find schedules that are relevant to me, so I won't have to spend too much time searching.
+    2. As a user, I want to be able to **know which schedules have been helpful to other students** like myself, so I can look out for them first.
 
-2. As a user, I want to be able to know how helpful certain schedules are to others, so I can look out for them first.
+    3. As a user, I want to be able to **provide feedback**, so others can know how helpful a particular schedule has been to me.
 
-3. As a user, I want to be able to provide feedback, so others can know how helpful a particular schedule has been to me.
+    4. As a user, I want to be able to **contact the users who shared their schedules**, so I can ask more in-depth questions and find out more information.
 
-4. As a user, I want to be able to contact the users who shared their schedules, so I can ask more in-depth questions and find out more information.
+ - Senior Students    
+    
+    5. As a user, I want to be able to **share my schedules**, so others can learn from my personal experience.
 
-5. As a user, I want to be able to share my schedules, so others can learn from my personal experience.
+    6. As a user, I want to be able to **respond to any comments or questions on my shared schedules**, so I can provide more useful information to help others.
 
-6. As a user, I want to be able to respond to any comments or questions on my shared schedules, so I can provide more useful information to help others.
+- Admin    
+    
+    7. As an administrator, I want to ensure that **only authenticated users on the website can share their schedules**, so that the information shared on the website will be reliable.
 
-7. As an administrator, I want to ensure that only authenticated users on the website can share their schedules, so that the information shared on the website will be reliable.
+    8. As an administrator, I want to ensure that **only authenticated users can message other users or comment on shared schedules**, so that users who share their schedules will not be spammed or harassed.
 
-8. As an administrator, I want to ensure that only authenticated users can message other users or comment on shared schedules, so that users who share their schedules will not be spammed or harassed.
-
+## Luxury
+    1. As an administrator, I want to be able to **manage the shared schedules and archive schedules that contain outdated modules**, so that the information on the web application stays relevant. (Priority 2)
 
 # Project Timeline
+
 
 ### **Milestone 1**
 **Deliverables**
