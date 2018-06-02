@@ -26,9 +26,11 @@ Some of the features we want to include in our web app include:
 
 1.  CRUD - Users can share their schedules (Create), view schedules shared by others (Read), make changes to their shared schedules (Update), and remove their shared schedules (Delete). 
 
-2.  Integration of Social Media and NUSNET Account - allow users to create an account and log in with their social media or NUSNET IDs so they can be better identified (which will improve the reliability of their shared schedules).
+2. Schedules will be tagged by faculty and course name, as well as module codes among other things. Filters will also be provided so that users can search for relevant schedules more efficiently.
 
-3.  User Interface - to make it easy for users to navigate across different schedules based on different filters.
+3.  Integration of Social Media and NUSNET Account - allow users to create an account and log in with their social media or NUSNET IDs so they can be better identified (which will improve the reliability of their shared schedules).
+
+4.  User Interaction and Feedback - Users (who are logged in) will be able to comment on schedules shared by others as well as send direct messages to other users. Users will also be able to rate how helpful schedules have been by leaving a "like" on them.
 
 
 ## System Flow
@@ -52,21 +54,21 @@ Some of the features we want to include in our web app include:
 
  - Senior Students    
     
-    5. As a user, I want to be able to **share my schedules**, so others can learn from my personal experience.
+    1. As a user, I want to be able to **share my schedules**, so others can learn from my personal experience.
 
-    6. As a user, I want to be able to **respond to any comments or questions on my shared schedules**, so I can provide more useful information to help others.
+    2. As a user, I want to be able to **respond to any comments or questions on my shared schedules**, so I can provide more useful information to help others.
 
 - Admin    
     
-    7. As an administrator, I want to ensure that **only authenticated users on the website can share their schedules**, so that the information shared on the website will be reliable.
+    1. As an administrator, I want to ensure that **only authenticated users on the website can share their schedules**, so that the information shared on the website will be reliable.
 
-    8. As an administrator, I want to ensure that **only authenticated users can message other users or comment on shared schedules**, so that users who share their schedules will not be spammed or harassed.
+    2. As an administrator, I want to ensure that **only authenticated users can message other users or comment on shared schedules**, so that users who share their schedules will not be spammed or harassed.
 
 ## Luxury
-- Freshmen/ Junior Students
-
-- Senior Students
-
+- Freshmen/ Junior Students  
+    (NIL)
+- Senior Students  
+    (NIL)
 - Admin
     1. As an administrator, I want to be able to **manage the shared schedules and archive schedules that contain outdated modules**, so that the information on the web application stays relevant. (Priority 2)
 
@@ -78,7 +80,7 @@ Some of the features we want to include in our web app include:
 **Deliverables**
 1. README - Documentation of project
 2. Project Log - Access it [here](https://docs.google.com/spreadsheets/d/1WXrJ6DX2K2kuVXnYDIx9TSiST4avn1OwMiJcSvajT_U/edit?usp=sharing "Orbital Project Log")
-3. Video - Access it [here]
+3. Video - Access it [here](https://youtu.be/2QtjWDxdXI0 "Milestone 1 Video")
 
 At the end of Milestone 1, we aim to equipped with the basic skills in using the tools needed to implement the minimum viable product of our web application, along with the overall layout of the web app and what essential functionalities it should have to serve its purpose. 
 
