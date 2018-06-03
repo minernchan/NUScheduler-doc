@@ -10,7 +10,7 @@ Students in university at times face the dilemma of planning what modules to cho
 
 On the other hand, there are senior students who are enthusiastic about helping others to map out their modules so that others do not face the same problems they did while planning their modules. However, they do not have the channels to share their experiences with others.
 
-## What are we going to do
+## Aim & Project Scope
 NUScheduler aims to provide a platform to connect these students with their seniors so that they can find out how their seniors mapped out their modules each semester, to know what problems they faced and they can choose to plan their schedules based on how their seniors have done so. 
 
 On this platform, students can share their past schedules on the website for others to view, as well as add a description for each schedule regarding any problems with the basket of modules in each semester, and also add comments if they had any problems meeting prerequisite requirements. 
@@ -18,7 +18,8 @@ On this platform, students can share their past schedules on the website for oth
 Students who are unsure how to map out their modules will be able to see how others before them have planned their study route and avoid any of the problems mentioned above. They can also review and comment on the schedules shared by others to help identify schedules that have helped them better plan their timetables.
 
 ## Inspirations and how we are different
-1. NUSMods is our inspiration as we have benefitted a lot from being able to visualize the modules on a timetable. However, only individual modules can be reviewed by students, and not the particular timetable as a whole. Thus, we want to let students share their entire timetable and share their experience with others.
+1. NUSMods   
+We have benefitted a lot from being able to visualize the modules on a timetable. However, only individual modules can be reviewed by students, and not the particular timetable as a whole. Thus, we want to let students share their entire timetable and share their experience with others.
 
 
 ## Features
@@ -82,11 +83,11 @@ Some of the features we want to include in our web app include:
 2. Project Log - Access it [here](https://docs.google.com/spreadsheets/d/1WXrJ6DX2K2kuVXnYDIx9TSiST4avn1OwMiJcSvajT_U/edit?usp=sharing "Orbital Project Log")
 3. Video - Access it [here](https://youtu.be/2QtjWDxdXI0 "Milestone 1 Video")
 
-At the end of Milestone 1, we aim to equipped with the basic skills in using the tools needed to implement the minimum viable product of our web application, along with the overall layout of the web app and what essential functionalities it should have to serve its purpose. 
+At the end of Milestone 1, we aim to equipped with the basic skills in using the tools needed to implement the minimum viable product of our web application, along with the overall layout of the web app and essential functionalities it should have to serve its purpose. 
 
-At the start of the project, due to our inexperience with web applications, we experimented with HTML, CSS, Bootstrap, MeteorJS and MongoDB (which we were exposed to during the Liftoff workshops). For our frontend, we have chosen to work with HTML, CSS and Bootstrap. However, as we have some prior experience with other programming languages (Python) and other database tools (MySQL), we decided to use Django Web Framework and MySQL for our backend processes. 
+At the start of the project, due to our inexperience with web applications, we experimented with HTML, CSS, JavaScript, Bootstrap, MeteorJS and MongoDB (which we were exposed to during the Liftoff workshops). For our frontend, we have chosen to work with HTML, CSS and JavaScript. However, as we have some prior experience with other programming languages (Python) and other database tools (MySQL), we decided to use Django Web Framework and MySQL for our backend processes. 
 
-Then, we did some initial planning by brainstorming the user stories and drafting the system flow of users on our web application, with the different needs required at each process sorted according to priority levels so that we know what to focus on to produce a minimum viable product. (Refer to System Flow and User Stories section)
+We did some initial planning by brainstorming the user stories and constructing the system flow of users on our web application, with the different needs required at each process sorted according to priority levels so that we know what to focus on to produce a minimum viable product. (Refer to System Flow and User Stories section)
 
 For the development of the web application, both of us will work on the design and layout of the application. Xuan Min will be in charge of implementing the frontend while Minern will be in charge of implementing the backend of the web application.
 
