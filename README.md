@@ -21,6 +21,9 @@ Students who are unsure how to map out their modules will be able to see how oth
 1. NUSMods   
 We have benefitted a lot from being able to visualize the modules on a timetable. However, only individual modules can be reviewed by students, and not the particular timetable as a whole. Thus, we want to let students share their entire timetable and share their experience with others.
 
+2. NUS CORS & IVLE  
+CORS and IVLE are listed as inspirations as we can search for prerequisite modules and view a few timetables. However, they are not very user friendly, and for freshmen, may be difficult to use since they are new to the user interface.
+
 
 ## Features
 Some of the features we want to include in our web app include:
