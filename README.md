@@ -20,6 +20,8 @@ Students who are unsure how to map out their modules will be able to see how oth
 ## Inspiration and how we are different
 NUSMods is our inspiration as we have benefitted a lot from being able to visualize the modules on a timetable. However, only individual modules can be reviewed by students, and not the particular timetable as a whole. Thus, we want to let students share their entire timetable and share their experience with others.
 
+NUS CORS and IVLE are another inspiration we got where we can search for prerequisite modules and timetable. However, they are user unfriendly and may cause confusion for freshmen as they are new to the interface. 
+
 ## Features
 Some of the features we want to include in our web app include:
 
