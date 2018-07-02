@@ -108,7 +108,9 @@ For the development of the web application, both of us will work on the design a
 **Deliverables**
 1. README - Documentation of project
 2. Project Log - Access it [here](https://docs.google.com/spreadsheets/d/1WXrJ6DX2K2kuVXnYDIx9TSiST4avn1OwMiJcSvajT_U/edit?usp=sharing "Orbital Project Log")
-3. Video - Access it [here](https://youtu.be/2QtjWDxdXI0 "Milestone 2 Video")
+3. Video - Access it [here](https://youtu.be/ObN_UOXi8As "Milestone 2 Video")
+
+![Image for Milestone 2 Poster](milestone2poster.jpg)
 
 For Milestone 2, we have created a Minimum Viable Product on the web app with basic user sharing functionalities. Overall, it is not what we planned to accomplish by Milestone 2, as many of the functionalities we planned to add (according to the system flow above) are not in place. This is because we encountered some difficulty learning about web development in general, and we faced some problems with the Django framework and had to spend some time learning about how to solve those problems. As such, we decided to keep it simple and work on building it incrementally. 
 
