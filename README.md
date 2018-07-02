@@ -127,27 +127,27 @@ For Milestone 3, we intend to:
  
 ## **Web App Preview**
 Homepage (as an anonymous user)
-![Image for Anonymous Users' Homepage](AnonymousHomePage.png)
+![Image for Anonymous Users' Homepage](AnonymousHomePage.PNG)
 Users will have the option to login or register on the top right, while still being able to access the links in the sidebar
 
 Homepage (as an authenticated user)
-![Image for Logged in users homepage](LoggedInHomepage.png)
+![Image for Logged in users homepage](LoggedInHomepage.PNG)
 Logged in users have the option to share their schedule on the top right
 
 Login page
-![Image for log in page](LoginPage.png)
+![Image for log in page](LoginPage.PNG)
 
 Registration page
-![Image for registration page](RegistrationPage.png)
+![Image for registration page](RegistrationPage.PNG)
 
 User Profile page
-![Image for profile page](ProfilePage.png)
+![Image for profile page](ProfilePage.PNG)
 
 Upload Schedule page
-![Image for upload schedule](UploadSchedulePage.png)
+![Image for upload schedule](UploadSchedulePage.PNG)
 
 Overall View Schedule Page
-![Image for overall schedule page](UpdatedScheduleViewPage.png)
+![Image for overall schedule page](UpdatedScheduleViewPage.PNG)
 
 Detailed View for Schedule 
-![Image for detailed schedule view](DetailedScheduleViewPage.png)
+![Image for detailed schedule view](DetailedScheduleViewPage.PNG)
