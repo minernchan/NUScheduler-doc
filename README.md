@@ -76,6 +76,16 @@ Some of the features we want to include in our web app include:
 - Admin
     1. As an administrator, I want to be able to **manage the shared schedules and archive schedules that contain outdated modules**, so that the information on the web application stays relevant. (Priority 2)
 
+## Tech Stack
+- Frontend:
+    - HTML, CSS, JS, Bootstrap
+
+![Image of HTML CSS JS Logos](HTMLCSSJSLogo.png)
+
+- Backend:
+    - Django Framework
+
+![Image of Django Logo](djangologo.png)
 
 # Project Timeline
 
@@ -94,6 +104,50 @@ We did some initial planning by brainstorming the user stories and constructing 
 
 For the development of the web application, both of us will work on the design and layout of the application. Xuan Min will be in charge of implementing the frontend while Minern will be in charge of implementing the backend of the web application.
 
+### **Milestone 2**
+**Deliverables**
+1. README - Documentation of project
+2. Project Log - Access it [here](https://docs.google.com/spreadsheets/d/1WXrJ6DX2K2kuVXnYDIx9TSiST4avn1OwMiJcSvajT_U/edit?usp=sharing "Orbital Project Log")
+3. Video - Access it [here](https://youtu.be/2QtjWDxdXI0 "Milestone 2 Video")
+
+For Milestone 2, we have created a Minimum Viable Product on the web app with basic user sharing functionalities. Overall, it is not what we planned to accomplish by Milestone 2, as many of the functionalities we planned to add (according to the system flow above) are not in place. This is because we encountered some difficulty learning about web development in general, and we faced some problems with the Django framework and had to spend some time learning about how to solve those problems. As such, we decided to keep it simple and work on building it incrementally. 
 
 
+On the NUScheduler web app, there are User Login and Registration functionalities which uses the inbuilt Django user authentication systems (which hashes passwords and stores them in the database). A Google Captcha is also added to the User Login and Registration form to prevent spam. Basic user profile information is displayed on the users' profile page as well as the schedules they have uploaded. Users can edit their personal information on their profile page and view other users' profile information.
 
+For the sharing of schedules, we have created a basic CRUD for users to upload their schedules (Create), view their own and others' schedules (Read), Edit their uploads (Update), and delete their uploads (Delete). However, due to the difficulties mentioned above, we decided to implement a simple form where users upload an image of their timetable with text inputs of their course and modules taken as well as their schedule description. Logged in and anonymous users will be able to view schedules uploaded by others, however, only logged in users will be able to share their schedules. 
+
+For Milestone 3, we intend to:  
+1. Improve on user profile information to include academic information
+2. Include tags on schedule uploads as well as group posts by Faculty and course name (so users can filter and search for relevant schedules easily, as it will get messy with the current overall view of uploaded schedules)
+3. Improve on the schedule upload form and requirements (e.g. using NUSMods API for module selection etc, possible upgrades instead of uploading image file as the schedule) 
+4. Add a "Recommend" button for users to upvote schedules that are helpful
+5. Add a "Favourites" section so users can save schedules and refer to them quickly
+6. Add a comments section and/or instant messaging
+ 
+## **Web App Preview**
+Homepage (as an anonymous user)
+![Image for Anonymous Users' Homepage](AnonymousHomePage.png)
+Users will have the option to login or register on the top right, while still being able to access the links in the sidebar
+
+Homepage (as an authenticated user)
+![Image for Logged in users homepage](LoggedInHomepage.png)
+Logged in users have the option to share their schedule on the top right
+
+Login page
+![Image for log in page](LoginPage.png)
+
+Registration page
+![Image for registration page](RegistrationPage.png)
+
+User Profile page
+![Image for profile page](ProfilePage.png)
+
+Upload Schedule page
+![Image for upload schedule](UploadSchedulePage.png)
+
+Overall View Schedule Page
+![Image for overall schedule page](UpdatedScheduleViewPage.png)
+
+Detailed View for Schedule 
+![Image for detailed schedule view](DetailedScheduleViewPage.png)
