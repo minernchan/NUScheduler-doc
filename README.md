@@ -126,28 +126,28 @@ For Milestone 3, we intend to:
 6. Add a comments section and/or instant messaging
  
 ## **Web App Preview**
-Homepage (as an anonymous user)
+### Homepage (as an anonymous user)
 ![Image for Anonymous Users' Homepage](AnonymousHomePage.PNG)
 Users will have the option to login or register on the top right, while still being able to access the links in the sidebar
 
-Homepage (as an authenticated user)
+### Homepage (as an authenticated user)
 ![Image for Logged in users homepage](LoggedInHomepage.PNG)
 Logged in users have the option to share their schedule on the top right
 
-Login page
+### Login page
 ![Image for log in page](LoginPage.PNG)
 
-Registration page
+### Registration page
 ![Image for registration page](RegistrationPage.PNG)
 
-User Profile page
+### User Profile page
 ![Image for profile page](ProfilePage.PNG)
 
-Upload Schedule page
+### Upload Schedule page
 ![Image for upload schedule](UploadSchedulePage.PNG)
 
-Overall View Schedule Page
+### Overall View Schedule Page
 ![Image for overall schedule page](UpdatedScheduleViewPage.PNG)
 
-Detailed View for Schedule 
+### Detailed View for Schedule 
 ![Image for detailed schedule view](DetailedScheduleViewPage.PNG)
