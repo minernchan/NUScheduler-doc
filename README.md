@@ -1,5 +1,5 @@
 # **NUScheduler**
-![NUScheduler Logo](NUScheduler-logo.PNG)  
+![NUScheduler Logo](misc/NUScheduler-logo.PNG)  
 Group Name: NUScheduler  
 Group Members: MINERN CHAN, CHENG XUAN MIN  
 Proposed Level of Achievement: Gemini
@@ -39,9 +39,9 @@ Some of the features we want to include in our web app include:
 
 ## System Flow
 
-![Image of System Flow for Users looking for schedules](systemjunior.PNG)
+![Image of System Flow for Users looking for schedules](misc/systemjunior.PNG)
 
-![Image of System Flow for Users sharing schedules](systemsenior.PNG)
+![Image of System Flow for Users sharing schedules](misc/systemsenior.PNG)
 
 
 
@@ -80,12 +80,12 @@ Some of the features we want to include in our web app include:
 - Frontend:
     - HTML, CSS, JS, Bootstrap
 
-![Image of HTML CSS JS Logos](HTMLCSSJSLogo.png)
+![Image of HTML CSS JS Logos](misc/HTMLCSSJSLogo.png)
 
 - Backend:
     - Django Framework
 
-![Image of Django Logo](djangologo.png)
+![Image of Django Logo](misc/djangologo.png)
 
 # Project Timeline
 
@@ -110,10 +110,9 @@ For the development of the web application, both of us will work on the design a
 2. Project Log - Access it [here](https://docs.google.com/spreadsheets/d/1WXrJ6DX2K2kuVXnYDIx9TSiST4avn1OwMiJcSvajT_U/edit?usp=sharing "Orbital Project Log")
 3. Video - Access it [here](https://youtu.be/ObN_UOXi8As "Milestone 2 Video")
 
-![Image for Milestone 2 Poster](milestone2poster.jpg)
+![Image for Milestone 2 Poster](misc/milestone2poster.jpg)
 
 For Milestone 2, we have created a Minimum Viable Product on the web app with basic user sharing functionalities. Overall, it is not what we planned to accomplish by Milestone 2, as many of the functionalities we planned to add (according to the system flow above) are not in place. This is because we encountered some difficulty learning about web development in general, and we faced some problems with the Django framework and had to spend some time learning about how to solve those problems. As such, we decided to keep it simple and work on building it incrementally. 
-
 
 On the NUScheduler web app, there are User Login and Registration functionalities which uses the inbuilt Django user authentication systems (which hashes passwords and stores them in the database). A Google Captcha is also added to the User Login and Registration form to prevent spam. Basic user profile information is displayed on the users' profile page as well as the schedules they have uploaded. Users can edit their personal information on their profile page and view other users' profile information.
 
@@ -129,27 +128,65 @@ For Milestone 3, we intend to:
  
 ## **Web App Preview**
 ### Homepage (as an anonymous user)
-![Image for Anonymous Users' Homepage](AnonymousHomePage.PNG)
+![Image for Anonymous Users' Homepage](webapp/AnonymousHomePage.PNG)
 Users will have the option to login or register on the top right, while still being able to access the links in the sidebar
 
 ### Homepage (as an authenticated user)
-![Image for Logged in users homepage](LoggedInHomepage.PNG)
+![Image for Logged in users homepage](webapp/LoggedInHomepage.PNG)
 Logged in users have the option to share their schedule on the top right
 
 ### Login page
-![Image for log in page](LoginPage.PNG)
+![Image for log in page](webapp/LoginPage.PNG)
 
 ### Registration page
-![Image for registration page](RegistrationPage.PNG)
+![Image for registration page](webapp/RegistrationPage.PNG)
 
 ### User Profile page
-![Image for profile page](ProfilePage.PNG)
+![Image for profile page](webapp/ProfilePage.PNG)
 
 ### Upload Schedule page
-![Image for upload schedule](UploadSchedulePage.PNG)
+![Image for upload schedule](webapp/UploadSchedulePage.PNG)
 
 ### Overall View Schedule Page
-![Image for overall schedule page](UpdatedScheduleViewPage.PNG)
+![Image for overall schedule page](webapp/UpdatedScheduleViewPage.PNG)
 
 ### Detailed View for Schedule 
-![Image for detailed schedule view](DetailedScheduleViewPage.PNG)
+![Image for detailed schedule view](webapp/DetailedScheduleViewPage.PNG)
+
+### **Milestone 3**
+**Deliverables**
+1. README - Documentation of project
+2. Project Log - Access it [here](https://docs.google.com/spreadsheets/d/1WXrJ6DX2K2kuVXnYDIx9TSiST4avn1OwMiJcSvajT_U/edit?usp=sharing "Orbital Project Log")
+3. Video - Access it [here]( "Milestone 3 Video")
+
+![Image for Milestone 3 Poster](misc/milestone2poster.jpg)
+
+For Milestone 3, we have worked on improving on current features based on feedback from Milestone 2, as well as adding new features to the web application to make it easier to use. 
+
+Improvements on current features mentioned in Milestone 2:
+
+We have made changes to the User Profile model to include more academic information (such as year of study, faculty etc) as well as using email addresses as the users' log in ID instead of unique usernames. After letting some users (other NUS students) test out the web app, we obtained certain feedback regarding the user interface and decided to remove the sidebar and shift its contents into the navbar. The content has also been more centralized and rescaled so that the information is presented in a neater manner which is easier on the users' eyes and icons from FontAwesome were  added to make the UI more pleasant. Also, the code for the html has been edited to be mobile friendly. 
+
+New features added for Milestone 3:  
+For the schedule post submission, we have added a dropdown text select menu with module codes retrieved from the NUSMods API from semesters 1 and 2 from AY14/15 up to semester 1 AY18/19. We intended to incorporate this feature together with a 'tags' function, however, due to time constraints, we could only implement it as a text field where the selected modules are delimited by commas.
+
+We have also added a quick search which allows users to search for posts containing the specific keywords searched in any field. There is also a more specific filter function which allows users to find posts containing specific information (e.g. specifically containing a particular module and from a particular course). Users can also leave a like on each post to allow others to know how helpful a particular schedule post has been. If a user is really interested in a particular schedule, the user can also bookmark it to refer to it at a later time. The bookmark section can be found on the user's profile page. Lastly, users can also interact with each other and ask questions about the post by leaving or replying to comments on the post page. 
+
+All in all, the web application is still not what we imagined from the start (regarding uploading image files to display the particular basket of modules and limited to individual semesters), however, we are glad with the product we were able to develop for the final milestone and with what we were able to learn throughout Orbital.
+
+### New Home Page
+![Image for new homepage](milestone3/newhomepage.PNG)
+
+### New Schedules Page
+A grid format was implemented after receiving feedback from a user who tested the app.
+
+![Image for new schedules page](milestone3/newschedulepage.PNG)
+
+### Filter Page
+![Image for filter page](milestone3/filterpage.PNG)
+
+### Likes and Comments
+![Image for likes and comments](milestone3/likesandcomments.PNG)
+
+### Bookmark Page
+![Image for bookmark page](milestone3/bookmarkpage.PNG)
