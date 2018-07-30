@@ -164,7 +164,7 @@ Logged in users have the option to share their schedule on the top right
 For Milestone 3, we have worked on improving on current features based on feedback from Milestone 2, as well as adding new features to the web application to make it easier to use. 
 
 #### Improvements on current features mentioned in Milestone 2:  
-We have made changes to the User Profile model to include more academic information (such as year of study, faculty etc) as well as using email addresses as the users' log in ID instead of unique usernames. After letting some users (other NUS students) test out the web app, we obtained certain feedback regarding the user interface and decided to remove the sidebar and shift its contents into the navbar. The content has also been more centralized and rescaled so that the information is presented in a neater manner which is easier on the users' eyes and icons from FontAwesome were  added to make the UI more pleasant. Also, the code for the html has been edited to be mobile friendly. 
+We have made changes to the User Profile model to include more academic information (such as year of study, faculty etc) as well as using email addresses as the users' log in ID instead of unique usernames. After letting some users test out the web app, we obtained certain feedback regarding the user interface and decided to remove the sidebar and shift its contents into the navbar. The content has also been more centralized and rescaled so that the information is presented in a neater manner which is easier on the users' eyes and icons from FontAwesome were  added to make the UI more pleasant. Also, the code for the html has been edited to be mobile friendly. 
 
 #### New features added for Milestone 3:  
 For the schedule post submission, we have added a dropdown text select menu with module codes retrieved from the NUSMods API from semesters 1 and 2 from AY14/15 up to semester 1 AY18/19. We intended to incorporate this feature together with a 'tags' function, however, due to time constraints, we could only implement it as a text field where the selected modules are delimited by commas.
@@ -174,8 +174,11 @@ We have also added a quick search which allows users to search for posts contain
 #### Testing:
 Initially when we were adding features, we did a lot of self-testing by creating our own accounts, posts, checking to see if every feature was working as intended. We were aware of the automated testing provided through the Django framework, however, we were not sure of how exactly to construct the various test cases for each model, form and view. In the end due to time constraints, we only managed to construct a small number of test cases. We did, however, conduct user testing by letting fellow students try out the web application and obtained their feedback regarding the UI and functionalities and made changes accordingly.
 
+#### Missing features
+We hoped that we could implement the tagging functionality and improve on the schedule submission format in time for Milestone 3 but unfortunately we did not due to ability and time constraints. Also, we realized that we had forgotten to implement a sorting feature based on the number of upvotes a post has as well. Moving forward, these are features we definitely want to add to the application.
+
 #### Conclusion
-All in all, the web application is still not what we imagined from the start. We hoped that we could implement the tagging functionality and improve on the schedule submission format in time for Milestone 3 but unfortunately we did not. However, we are glad with the product we were able to develop for the final milestone and with what we were able to learn throughout Orbital as we started off without a single bit of experience in web development at all.
+All in all, the web application is still not what we imagined from the start.  However, we are glad with the product we were able to develop for the final milestone and with what we were able to learn throughout Orbital as we started off without a single bit of experience in web development at all.
 
 ### New Home Page
 ![Image for new homepage](milestone3/newhomepage.PNG)
