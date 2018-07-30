@@ -157,9 +157,9 @@ Logged in users have the option to share their schedule on the top right
 **Deliverables**
 1. README - Documentation of project
 2. Project Log - Access it [here](https://docs.google.com/spreadsheets/d/1WXrJ6DX2K2kuVXnYDIx9TSiST4avn1OwMiJcSvajT_U/edit?usp=sharing "Orbital Project Log")
-3. Video - Access it [here]( "Milestone 3 Video")
+3. Video - Access it [here](https://youtu.be/QVzS0VAtdNY "Milestone 3 Video")
 
-![Image for Milestone 3 Poster](misc/milestone2poster.jpg)
+![Image for Milestone 3 Poster](milestone3/milestone3poster.PNG)
 
 For Milestone 3, we have worked on improving on current features based on feedback from Milestone 2, as well as adding new features to the web application to make it easier to use. 
 
@@ -175,7 +175,7 @@ We have also added a quick search which allows users to search for posts contain
 Initially when we were adding features, we did a lot of self-testing by creating our own accounts, posts, checking to see if every feature was working as intended. We were aware of the automated testing provided through the Django framework, however, we were not sure of how exactly to construct the various test cases for each model, form and view. In the end due to time constraints, we only managed to construct a small number of test cases. We did, however, conduct user testing by letting fellow students try out the web application and obtained their feedback regarding the UI and functionalities and made changes accordingly.
 
 #### Conclusion
-All in all, the web application is still not what we imagined from the start (regarding uploading image files to display the particular basket of modules etc), however, we are glad with the product we were able to develop for the final milestone and with what we were able to learn throughout Orbital.
+All in all, the web application is still not what we imagined from the start. We hoped that we could implement the tagging functionality and improve on the schedule submission format in time for Milestone 3 but unfortunately we did not. However, we are glad with the product we were able to develop for the final milestone and with what we were able to learn throughout Orbital as we started off without a single bit of experience in web development at all.
 
 ### New Home Page
 ![Image for new homepage](milestone3/newhomepage.PNG)
