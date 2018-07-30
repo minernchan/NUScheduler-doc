@@ -163,16 +163,19 @@ Logged in users have the option to share their schedule on the top right
 
 For Milestone 3, we have worked on improving on current features based on feedback from Milestone 2, as well as adding new features to the web application to make it easier to use. 
 
-Improvements on current features mentioned in Milestone 2:
-
+#### Improvements on current features mentioned in Milestone 2:  
 We have made changes to the User Profile model to include more academic information (such as year of study, faculty etc) as well as using email addresses as the users' log in ID instead of unique usernames. After letting some users (other NUS students) test out the web app, we obtained certain feedback regarding the user interface and decided to remove the sidebar and shift its contents into the navbar. The content has also been more centralized and rescaled so that the information is presented in a neater manner which is easier on the users' eyes and icons from FontAwesome were  added to make the UI more pleasant. Also, the code for the html has been edited to be mobile friendly. 
 
-New features added for Milestone 3:  
+#### New features added for Milestone 3:  
 For the schedule post submission, we have added a dropdown text select menu with module codes retrieved from the NUSMods API from semesters 1 and 2 from AY14/15 up to semester 1 AY18/19. We intended to incorporate this feature together with a 'tags' function, however, due to time constraints, we could only implement it as a text field where the selected modules are delimited by commas.
 
 We have also added a quick search which allows users to search for posts containing the specific keywords searched in any field. There is also a more specific filter function which allows users to find posts containing specific information (e.g. specifically containing a particular module and from a particular course). Users can also leave a like on each post to allow others to know how helpful a particular schedule post has been. If a user is really interested in a particular schedule, the user can also bookmark it to refer to it at a later time. The bookmark section can be found on the user's profile page. Lastly, users can also interact with each other and ask questions about the post by leaving or replying to comments on the post page. 
 
-All in all, the web application is still not what we imagined from the start (regarding uploading image files to display the particular basket of modules and limited to individual semesters), however, we are glad with the product we were able to develop for the final milestone and with what we were able to learn throughout Orbital.
+#### Testing:
+Initially when we were adding features, we did a lot of self-testing by creating our own accounts, posts, checking to see if every feature was working as intended. We were aware of the automated testing provided through the Django framework, however, we were not sure of how exactly to construct the various test cases for each model, form and view. In the end due to time constraints, we only managed to construct a small number of test cases. We did, however, conduct user testing by letting fellow students try out the web application and obtained their feedback regarding the UI and functionalities and made changes accordingly.
+
+#### Conclusion
+All in all, the web application is still not what we imagined from the start (regarding uploading image files to display the particular basket of modules etc), however, we are glad with the product we were able to develop for the final milestone and with what we were able to learn throughout Orbital.
 
 ### New Home Page
 ![Image for new homepage](milestone3/newhomepage.PNG)
