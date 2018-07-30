@@ -159,7 +159,7 @@ Logged in users have the option to share their schedule on the top right
 2. Project Log - Access it [here](https://docs.google.com/spreadsheets/d/1WXrJ6DX2K2kuVXnYDIx9TSiST4avn1OwMiJcSvajT_U/edit?usp=sharing "Orbital Project Log")
 3. Video - Access it [here](https://youtu.be/QVzS0VAtdNY "Milestone 3 Video")
 
-![Image for Milestone 3 Poster](milestone3/milestone3poster.PNG)
+![Image for Milestone 3 Poster](milestone3/milestone3poster.png)
 
 For Milestone 3, we have worked on improving on current features based on feedback from Milestone 2, as well as adding new features to the web application to make it easier to use. 
 
